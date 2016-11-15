@@ -1,0 +1,39 @@
+tekstSvar1:finne den veien med minst sum av kantvekter fra u til v
+tekstSvar2:sant? ...
+tekstSvar3:Sant
+tekstSvar4:Usant
+tekstSvar5:Sant
+tekstSvar6:Prims????
+tekstSvar7:Sant??
+tekstSvar8:u.d = 3, v.d = 5
+tekstSvar9:5, 7 **
+tekstSvar10:0*
+tekstSvar11:inf*
+tekstSvar12: ... inf*
+tekstSvar13:8 ...*
+tekstSvar14:6*
+tekstSvar15:9*
+tekstSvar16:4*
+tekstSvar17:3*
+tekstSvar18:sant*
+tekstSvar19:sant*
+tekstSvar20:Th(V) + Th(V*E) + Th(E) = Th(V*E) *
+tekstSvar21:Ja ?? sykel
+tekstSvar22:Sant??
+tekstSvar23:O(1) En* 
+tekstSvar24:Th(E +V)*
+tekstSvar25:F, E, A, B, D, C *
+tekstSvar26:4*
+tekstSvar27:8*
+tekstSvar28:8*
+tekstSvar29:7*
+tekstSvar30:4*
+tekstSvar31:Sant??*
+tekstSvar32:Ja....?*
+tekstSvar33:(unable to decode value)
+antall:33
+visAlt:false
+antallOppg:4
+antallSo:0
+antallMeninger:0
+lagre:true
